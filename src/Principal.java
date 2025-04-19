@@ -61,8 +61,8 @@ public class Principal {
         listaDePeliculas.add(miPelicula);
         listaDePeliculas.add(otraPelicula);
 
-        System.out.println("Tamaño de la lista: " + listaDePeliculas.size());
-        System.out.println("La primera pelicula es: " + listaDePeliculas.get(0).getNombre());
+        System.out.println(" Tamaño de la lista: " + listaDePeliculas.size());
+        System.out.println(" La primera pelicula es: " + listaDePeliculas.get(0).getNombre());
 
         System.out.println(listaDePeliculas);
     }
